@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import BarChart from '../components/chart'
+import BarChart from '../components/Chart'
+import Heat from '../components/Heat'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -26,7 +27,9 @@ export default function Home() {
 
       <main className="">
         <BarChart chartData={data} />
-        
+
+        {/* <Pie chartData={data}/> */}
+        {/* <Heat/> */}
       </main>
 
           </div>
