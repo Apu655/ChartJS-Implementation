@@ -30,6 +30,7 @@ export default function Home() {
 
         {/* <Pie chartData={data}/> */}
         {/* <Heat/> */}
+        <h1>Hello world</h1>
       </main>
 
           </div>
