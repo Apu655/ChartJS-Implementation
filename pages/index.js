@@ -12,7 +12,7 @@ export default function Home() {
         label: "Users Gained",
         data: [12,2,3,56],
         backgroundColor:[
-          "rgba(155,255,255,0.8)"
+          "rgba(155,255,255)"
         ]
       }
     ]
