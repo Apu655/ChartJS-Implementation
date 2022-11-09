@@ -27,10 +27,8 @@ export default function Home() {
 
       <main className="">
         <BarChart chartData={data} />
-
-        {/* <Pie chartData={data}/> */}
-        {/* <Heat/> */}
         <h1>Hello world</h1>
+        <h2>Hello World 2</h2>
       </main>
 
           </div>
