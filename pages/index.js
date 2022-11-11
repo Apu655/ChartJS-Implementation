@@ -5,6 +5,7 @@ import Heat from '../components/Heat'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
+  console.log("Testify")
   const data = {
     labels:[2012,2014,2016,2018],
     datasets:[
