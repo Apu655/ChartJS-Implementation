@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   console.log("Testify")
-  console.log("testify 2")
+
   const data = {
     labels:[2012,2014,2016,2018],
     datasets:[
